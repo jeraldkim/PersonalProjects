@@ -1,0 +1,4 @@
+x int,y int,z int
+1,2,NOVALUE
+2,3,4
+5000000,792834,NOVALUE
